@@ -8,7 +8,7 @@ Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/Yaochenge
 
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaochenger&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=Yaochenger&count_private=true&show_icons=true" height=145/></span>
 
-#### Specialized skills
+#### Skills
 <div align="center">
 <img style="margin: 10px" src="https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg" alt="Linux" height="25" />
   
