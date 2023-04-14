@@ -13,6 +13,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 #### Specialized skills
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+<img style="margin: 10px" src="https://github.com/RT-Thread/rt-thread/blob/master/documentation/figures/logo.png" alt="Linux" height="50" />
 </div>
 
 </td>
