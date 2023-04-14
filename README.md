@@ -8,11 +8,10 @@ Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/Yaochenge
 
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaochenger&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=Yaochenger&count_private=true&show_icons=true" height=145/></span>
 
-I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -[QQ 邮箱](1516081466@qq.com)
-
 #### Specialized skills
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+<img style="margin: 10px" src="https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg" alt="Linux" height="25" />
+  
 <img style="margin: 10px" src="https://github.com/RT-Thread/rt-thread/blob/master/documentation/figures/logo.png" alt="Linux" height="50" />
 </div>
 
